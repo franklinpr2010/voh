@@ -2,13 +2,15 @@
 
 function load_scripts() {
     wp_enqueue_style('flex-slider', get_template_directory_uri() . '/assets/css/flex-slider.css');
+    wp_enqueue_style('all', get_template_directory_uri() . '/assets/css/all.css');
     wp_enqueue_style('fontawesome', get_template_directory_uri() . '/assets/css/fontawesome.css');
     wp_enqueue_style('owl', get_template_directory_uri() . '/assets/css/owl.css');
     wp_enqueue_style('bootstrap', get_template_directory_uri() . '/vendor/bootstrap/css/bootstrap.min.css');
-    wp_enqueue_style('templatemo-finance', get_template_directory_uri() . '/assets/css/templatemo-finance-business.css');
+    wp_enqueue_style('ordemhermeticatheme', get_template_directory_uri() . '/assets/css/ordemhermeticatheme.css');
+    wp_enqueue_style('font-aewsome-thoth', get_template_directory_uri() . '/assets/css/thoth/styles.css');
     wp_enqueue_style('mdb', get_template_directory_uri() . '/assets/css/mdb.min.css');
     wp_enqueue_style('bulma', get_template_directory_uri() . '/assets/css/bulma.min.css');
-
+    wp_enqueue_style('font2', 'https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr');
     wp_enqueue_script('jquery-two', get_template_directory_uri() . '/vendor/jquery/jquery.min.js', array(), null, true);
     wp_enqueue_script('jquery.slim', get_template_directory_uri() . '/vendor/bootstrap/js/jquery.slim.min.js', array('jquery-two'), null, true);
     wp_enqueue_script('accordions', get_template_directory_uri() . '/assets/js/accordions.js', array('jquery-two'), null, true);
@@ -17,6 +19,7 @@ function load_scripts() {
     wp_enqueue_script('slick', get_template_directory_uri() . '/assets/js/slick.js', array('jquery-two'), null, true);
     wp_enqueue_script('bootstrap-js', get_template_directory_uri() . '/vendor/bootstrap/js/bootstrap.min.js', array('jquery-two'), null, true);
     wp_enqueue_script('mdb-js', get_template_directory_uri() . '/assets/js/mdb.min.js', array('jquery-two'), null, true);
+    wp_enqueue_script('all-js', get_template_directory_uri() . '/assets/js/all.js', array('jquery-two'), null, true);
 }
 
 //Fazendo a chamada dos scripts

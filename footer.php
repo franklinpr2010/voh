@@ -3,37 +3,23 @@
       <div class="container">
         <div class="row">
           <div class="col-md-3 footer-item">
-            <h4>Finance Business</h4>
-            <p>Vivamus tellus mi. Nulla ne cursus elit,vulputate. Sed ne cursus augue hasellus lacinia sapien vitae.</p>
-            <ul class="social-icons">
-              <li><a rel="nofollow" href="https://fb.com/templatemo" target="_blank"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-              <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-              <li><a href="#"><i class="fa fa-behance"></i></a></li>
+          <i style="color:white" class="icon-flat-128x128-075-f-pad-128x128-f8f8f8 fa-3x"></i><h4>V.O.H∴ </h4>
+         
+          </div>
+          <div class="col-md-3 footer-item">
+            <h4>Links Úteis</h4>
+            <ul class="menu-list">
+              <li><a href="https://www.joselaerciodoegito.com/">José Laercio do Egito</a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-item">
-            <h4>Useful Links</h4>
+            <h4>Sites</h4>
             <ul class="menu-list">
-              <li><a href="#">Vivamus ut tellus mi</a></li>
-              <li><a href="#">Nulla nec cursus elit</a></li>
-              <li><a href="#">Vulputate sed nec</a></li>
-              <li><a href="#">Cursus augue hasellus</a></li>
-              <li><a href="#">Lacinia ac sapien</a></li>
-            </ul>
-          </div>
-          <div class="col-md-3 footer-item">
-            <h4>Additional Pages</h4>
-            <ul class="menu-list">
-              <li><a href="#">About Us</a></li>
-              <li><a href="#">How We Work</a></li>
-              <li><a href="#">Quick Support</a></li>
-              <li><a href="#">Contact Us</a></li>
-              <li><a href="#">Privacy Policy</a></li>
+              <li><a href="https://www.joselaerciodoegito.com/">José Laercio do Egito</a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-item last-item">
-            <h4>Contact Us</h4>
+            <h4>Contate-nos</h4>
             <div class="contact-form">
               <form id="contact footer-contact" action="" method="post">
                 <div class="row">
@@ -69,9 +55,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <p>Copyright &copy; 2020 Financial Business Co., Ltd.
-            
-            - Design: <a rel="nofollow noopener" href="https://templatemo.com" target="_blank">TemplateMo</a></p>
+            <p>Todos os direitos reservados &copy; 2020 V.O.H,.
           </div>
         </div>
       </div>
