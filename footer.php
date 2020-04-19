@@ -3,7 +3,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-3 footer-item">
-          <i style="color:white" class="icon-flat-128x128-075-f-pad-128x128-f8f8f8 fa-3x"></i><h4>V.O.H∴ </h4>
+          <i style="color:white" class="icon-flat-128x128-075-f-pad-128x128-f8f8f8 fa-3x"></i><h4>O.H.C∴ </h4>
          
           </div>
           <div class="col-md-3 footer-item">
@@ -55,7 +55,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <p>Todos os direitos reservados &copy; 2020 V.O.H,.
+            <p>Todos os direitos reservados &copy; 2020 O.H.C,.
           </div>
         </div>
       </div>

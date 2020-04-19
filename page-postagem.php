@@ -36,20 +36,7 @@
                 <div class="container">
 
                     <div class="container-fluid">
-                        <div class="jumbotron jumbotron-fluid hurricane">
-                            <div class="container">
-                                <?php if( have_posts() ): 
-                while(have_posts()) : the_post(); ?>
-                                    <div class="title-card-postagens">
-                                        <h1><?php the_title() ?></h1>
-                                        <p>
-                                            <?php the_field('subtitulo') ?>
-                                        </p>
-                                    </div>
-                                    <?php endwhile; ?>
-                                        <?php endif; ?>
-                            </div>
-                        </div>
+                
 
                         <div class="card-deck">
                             <?php
